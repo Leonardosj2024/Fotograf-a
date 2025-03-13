@@ -6,3 +6,12 @@ body{
 main{
     flex-grow: 1;
 }
+.card{
+    transition: all 0.9s;;
+}
+.card{
+    transition: all 0.3s;
+}
+.card:hover {
+transform: scale(1.10);
+}
